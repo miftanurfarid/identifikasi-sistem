@@ -1,0 +1,3 @@
+apa kelemahan utama menggunakan AR, MA, ARMA, ARIMA?
+apa kelemahan masing-masing, AR terhadap MA, AR terhadap ARMA, dst?
+lihat dari beberapa aspek. kecepatan proses? mampu memproses data yang kompleks?
