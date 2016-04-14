@@ -151,7 +151,7 @@ set (hleg1, 'location', 'northeast');
 set (plot_fit,'linewidth',2);
 axis tight;
 save (name_fig);
-saveas (gcf,name_fig,'eps2c');
+saveas (gcf,name_fig,'eps2c'); % save figure as eps file
 
 hold off
 
